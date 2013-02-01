@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>HMDelegate.qml</file>
+        <file>ui.qml</file>
+        <file>progress.png</file>
+        <file>CustomInput.qml</file>
+        <file>KBDelegate.qml</file>
+        <file>clear.png</file>
+        <file>ErrorDialog.qml</file>
+        <file>exit.png</file>
+        <file>showmoreoptions.png</file>
+        <file>TextButton.qml</file>
+        <file>warning.png</file>
+        <file>file.png</file>
+        <file>file.gif</file>
+        <file>call.png</file>
+        <file>sms.png</file>
+    </qresource>
+</RCC>
